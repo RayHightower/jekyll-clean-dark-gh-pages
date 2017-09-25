@@ -8,7 +8,8 @@ description: Software Developer. Tech company founder.
 url: http://localhost:4001
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
-baseurl:
+# baseurl: http://localhost:4001
+baseurl: /
 
 # excerpt generation
 excerpt_link: "Continue reading &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
@@ -24,13 +25,15 @@ share:
 
 social:
   github: rayhightower
-  stackoverflow: ''
-  linkedin:
-  instagram: ''
-  lastfm: ''
+  twitter: rayhightower
+  stackoverflow:
+  linkedin: rayhightower
+  instagram:
+  lastfm:
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
+# google_analytics_key: UA-330946-28
 google_analytics_key:
 # Yandex metrica (https://metrica.yandex.com/) leave blank to ignore or put true to use
 yandex_metrica:
