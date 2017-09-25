@@ -25,10 +25,11 @@ share:
 
 social:
   github: rayhightower
-  stackoverflow: ''
-  linkedin:
-  instagram: ''
-  lastfm: ''
+  twiter: rayhightower
+  stackoverflow:
+  linkedin: http://linkedin.com/in/rayhightower
+  instagram:
+  lastfm:
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
