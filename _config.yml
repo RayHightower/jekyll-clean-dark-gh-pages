@@ -8,7 +8,7 @@ description: Software Developer. Tech company founder.
 url: http://localhost:4001
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
-baseurl:
+baseurl: http://localhost:4001
 
 # excerpt generation
 excerpt_link: "Continue reading &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
