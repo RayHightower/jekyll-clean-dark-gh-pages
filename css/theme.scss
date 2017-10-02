@@ -233,12 +233,15 @@ div.post-meta {
 //********************************************************
 //                    Header
 //********************************************************
+// nav sitename {
+//   font-family: Arvo-Bold;
+// }
 nav a {
   padding-top: 20px !important;
   padding-bottom: 20px !important;
   @include transition(color 0.31s);
   font-size: 18px;
-  font-family: Arvo;
+  font-family: Arvo-Bold;
   -webkit-transition: all 0.7s ease;
   transition: all 0.7s ease;
 }
@@ -250,7 +253,7 @@ nav.navbar.shrink {
   min-height: 15px;
 }
 .navbar-brand {
-  font-size: 30px;
+  font-size: 40px; // Fun with sizes
   color: $accent-color;
 
 }
